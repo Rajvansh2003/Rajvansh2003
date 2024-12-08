@@ -1,31 +1,21 @@
-👋 Hello, I'm Rajvansh Sharma!
-🚀 Computer Science Engineering Student | Full-Stack Developer | AI Enthusiast
-I'm a final-year BTech Computer Science student at Chandigarh University, passionate about solving complex problems and building innovative solutions. I enjoy working with cutting-edge technologies, particularly in web development and artificial intelligence. My interests range from creating dynamic and responsive web applications to exploring AI-driven solutions for real-world problems.
+# 💫 About Me:
+👋 Hello, I'm Rajvansh Sharma! 🚀 Computer Science Engineering Student | Full-Stack Developer | AI Enthusiast I'm a final-year BTech Computer Science student at Chandigarh University, passionate about solving complex problems and building innovative solutions. I enjoy working with cutting-edge technologies, particularly in web development and artificial intelligence. My interests range from creating dynamic and responsive web applications to exploring AI-driven solutions for real-world problems.
 
-🔧 Technologies & Tools
-Languages: C++, Java, JavaScript, SQL, HTML/CSS, Tailwind CSS
-Frameworks/Libraries: React JS, Node.js, Express, MERN stack
-Databases: MongoDB, Firebase, MySQL
-Tools: Git, GitHub, Visual Studio Code, Docker
-Cloud: Firebase, AWS (Basics)
-Version Control: Git
-Other Skills: Data Structures & Algorithms, Problem Solving (300+ LeetCode problems)
 
-💼 Projects
-Chatter Connect
-A real-time chat application built with the MERN stack using React JS. It includes user authentication, message encryption, and a seamless chat experience.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajvansh-sharma-ab336221b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RajvanshSharma8) 
 
-Currency Converter
-A Java-based currency converter that efficiently converts currencies with up-to-date exchange rates. I developed this project as part of a placement task for Cognizant.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rajvansh2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rajvansh2003&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajvansh2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-My Tour and Travel
-An SQL-based travel management system that organizes trips, bookings, and customer data, enhancing travel agency operations.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rajvansh2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-🎯 Career Goals
-I’m aiming to leverage my skills in full-stack development and AI to create impactful solutions in the tech industry. I enjoy working in collaborative environments and tackling complex problems.
+---
+[![](https://visitcount.itsvg.in/api?id=Rajvansh2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
-📫 Let's Connect!
-LinkedIn: Rajvansh Sharma
-Email: rajvanshsharma.666@example.com
-GitHub: github.com/Rajvansh2003
-Feel free to check out my projects and reach out if you'd like to collaborate or discuss any exciting opportunities!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
